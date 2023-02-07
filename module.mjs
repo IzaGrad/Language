@@ -6,6 +6,9 @@ const DICTIONARY = {
     no:{
         "translateBtn": "Oversett"
     },
+    pl:{
+      "translateBtn": "Przetlumacz"
+  },
 }
-
+   
 export default DICTIONARY;
