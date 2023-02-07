@@ -1,13 +1,13 @@
 
 const DICTIONARY = {
     en:{
-      "translateBtn": "Click"
+      "translateBtn": "Translate"
     },
     no:{
-        "translateBtn": "Trykk"
+        "translateBtn": "Oversett"
     },
     pl:{
-      "translateBtn": "Nacisnij"
+      "translateBtn": "Przetlumacz"
   },
 }
    
